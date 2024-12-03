@@ -26,4 +26,4 @@ Ingenieria de Sistemas
 
 
 A continuacion, se encuentra el video de explicacion sbido a youtube sobre el prepocesamiento de los datos de la competecia de kaggle:
-https://youtu.be/aJEdjuQkCjc
+[https://youtu.be/aJEdjuQkCjc](https://www.youtube.com/watch?v=eUevP3Gbwbc)
